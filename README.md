@@ -48,4 +48,7 @@ K-Means clustering offers valuable insights into customer behavior, helping busi
 
 By applying K-Means clustering to the Mall Customer dataset, we have efficiently categorized customers into distinct groups. This enables businesses to implement targeted marketing campaigns and deliver personalized shopping experiences.
 
+## License
+
+MIT Licence 
 ---
